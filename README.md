@@ -1,1 +1,5 @@
-# Data-Visualization
+# Data Visualization
+
+In this project I will generate two visualization plots.  
+The first one will be a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics.  
+The second plot is a Choropleth map of the crime rate in San Francisco.  
